@@ -1,0 +1,7 @@
+com\selfhealing\backend\repository\DataRecordRepository.class
+com\selfhealing\backend\SelfHealingApp.class
+com\selfhealing\backend\model\DataRequest.class
+com\selfhealing\backend\controller\RecordController.class
+com\selfhealing\backend\service\HashLogicService.class
+com\selfhealing\backend\service\TamperEngine.class
+com\selfhealing\backend\model\DataRecord.class
